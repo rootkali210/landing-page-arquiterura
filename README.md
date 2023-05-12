@@ -2,4 +2,4 @@
 Este é o projeto de desenvimento do môdulo base de Tecnologia da Escola DNC.
 
 Link Do Site Disponibilizado: (https://landing-page-arquitetura.netlify.app/) <br>
-link da planilha de registro de informação: https://shorturl.at/klAY7
+Link da planilha de registro de informação: https://shorturl.at/klAY7
